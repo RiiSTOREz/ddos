@@ -21,8 +21,13 @@ function sleep(ms) {
 async function banner() {
 console.clear()
 console.log(`
-
-========================================================================`)}
+========================================
+WELCOME TO HUB DDOS
+TOOLS CREATE BY: 
+@fakhriigt
+NAME BOT: RiixDDOS ${versions}
+TOTAL POWER: 50%
+=========================================`)}
 // [========================================] //
 async function scrapeProxy() {
   try {
