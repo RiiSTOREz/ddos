@@ -25,7 +25,7 @@ console.log(`
 WELCOME TO HUB DDOS
 TOOLS CREATE BY: 
 @fakhriigt
-NAME BOT: RiixDDOS ${versions}
+NAME BOT: RiixDDOS
 TOTAL POWER: 50%
 =========================================`)}
 // [========================================] //
@@ -84,7 +84,7 @@ async function bootup() {
         console.log(`|| ▓▓▓▓▓▓▓▓▓▓ || 100%`)
         await sleep(700)
         console.clear()
-        console.log(`Welcome To PermenMD Tools ${version}`)
+        console.log(`Welcome To RiiXDDOS`)
         await sleep(1000)
 		    await banner()
         console.log(`Type "help" For Showing All Available Command`)
